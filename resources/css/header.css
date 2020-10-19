@@ -1,0 +1,8 @@
+.page-header{
+    background-color: white;
+    z-index: 1;
+    position: sticky;
+    width: 100%;
+    margin: 0 !important;
+    top: 0;
+}
